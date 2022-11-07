@@ -2,9 +2,21 @@
 
 body{
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(0, 0, 0);
-    background-image: url("https://get.pxhere.com/photo/sky-night-star-atmosphere-constellation-space-darkness-black-galaxy-nebula-outer-space-science-cool-image-astronomy-universe-cool-photo-midnight-phenomenon-astronomical-object-atmosphere-of-earth-computer-wallpaper-celestial-event-1410748.jpg");
+    color: rgb(255, 255, 255);
+    background-image: url("https://get.wallhere.com/photo/black-night-galaxy-space-sky-nebula-texture-night-sky-atmosphere-science-universe-astronomy-constellation-midnight-star-darkness-screenshot-1920x1080-px-computer-wallpaper-atmosphere-of-earth-outer-space-astronomical-object-phenomenon-815811.jpg");
 }
 a { 
-    color: rgb(0, 0, 0); 
+    color: rgb(255, 255, 255); 
+}
+
+figcaption {
+    font-size: 15px;
+    font-weight: 300;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin: auto;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
