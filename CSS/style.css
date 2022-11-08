@@ -1,53 +1,17 @@
-<!DOCTYPE html>
 
-<style type="text/css">
-
-#box{
-}
-
-img {
-    width:400px;
-	/* definimos a altura do box */
-	height:300px;
-	/* definimos a cor de fundo do box */
-	background-color:#6495ed;
-	/* definimos o quão arredondado irá ficar nosso box */
-	border-radius: 10px;
-	/* Declaração para aparecer no Firefox */
-	-moz-border-radius: 10px;
-	/* Para exibir nos outros navegadores como Chrome, safari, opera*/
-	-webkit-border-radius: 10px;
-}
-body {
-    background-color: rgb(202, 210, 212);
-  }
-
-  h1 {
-    color: rgb(0, 0, 0);
-    text-align: justify;
-  }
-
-  p {
-    color: rgb(0, 0, 0);
-    text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-
-  a{
-    text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-
-  b{
-    text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-
-  ul{
-    text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-
-
-
-</style>
+    table {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: rgb(238, 115, 115);
+    }
+    
+    td, th {
+    border: 1px solid #ea0707;
+    text-align: left;
+    padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+    background-color: #fecbcb;
+    }
